@@ -1,0 +1,93 @@
+[{
+  "buku": [
+    {
+      "id": "1",
+      "title": "Hyouka",
+      "price": "58650",
+      "image": "assets/images/barang/buku/buku1.jpg"
+    },
+    {
+      "id": "2",
+      "title": "UPDATE PALING LENGKAP DRILLING SEMUA JENIS SOAL TES CPNS SIS",
+      "price": "133000",
+      "image": "assets/images/barang/buku/buku2.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Filosofi Teras",
+      "price": "98000",
+      "image": "assets/images/barang/buku/buku3.jpg"
+    }
+  ],
+  "dapur": [
+    {
+      "id": "1",
+      "title": "Wooden Cake Stand / Tatakan Kue Kayu / Display Kayu",
+      "price": "65000",
+      "image": "assets/images/barang/dapur/dapur1.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Parutan Pembuat Keripik Kentang, Singkong, Pisang, Buah2an",
+      "price": "16000",
+      "image": "assets/images/barang/dapur/dapur2.jpg"
+    }
+  ],
+  "elektronik": [
+    {
+      "id": "1",
+      "title": "AirPods Pro Anti Dust Proof Film Guard Metallic 18K Gold Plated - SILVER",
+      "price": "44000",
+      "image": "assets/images/barang/elektronik/elektronik1.jpg"
+    },
+    {
+      "id": "2",
+      "title": "SHARP R-21D0(S)IN Microwave Oven",
+      "price": "869000",
+      "image": "assets/images/barang/elektronik/elektronik2.jpg"
+    }
+  ],
+  "fashion": [
+    {
+      "id": "1",
+      "title": "Kemeja Polos Hitam Cowok Panjang Kerja kantor Slimfit / Baju Pria",
+      "price": "99900",
+      "image": "assets/images/barang/fashion/fashion1.jpg"
+    }
+  ],
+  "kamera": [
+    {
+      "id": "1",
+      "title": "Lexar 64GB Professional UHS-I SDXC Memory Card GARANSI RESMI",
+      "price": "274900",
+      "image": "assets/images/barang/kamera/kamera1.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Kamera Canon 1100d",
+      "price": "2500000",
+      "image": "assets/images/barang/kamera/kamera2.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Kamera Canon M10 || Canon eos M10",
+      "price": "3700000",
+      "image": "assets/images/barang/kamera/kamera3.jpg"
+    }
+  ],
+  "other":[
+    {
+      "id": "1",
+      "title": "Interior Cleaner Obat Interior Pembersih Noda Bercak Interior Mobil",
+      "price": "32000",
+      "image": "assets/images/barang/other/other1.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Cabin Filter / Filter AC DENSO Mobil TOYOTA All New Innova",
+      "price": "60000",
+      "image": "assets/images/barang/other/other2.jpg"
+    }
+  ]
+}
+]
